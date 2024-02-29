@@ -1,12 +1,12 @@
 > [!IMPORTANT]
 >
->## Comandos para clonar plataforma de git remote add origin API-IDENTIDAD-CUN-LARAVEL ## 
+>## Comandos para clonar plataforma de git remote add origin API_CARNET_LARAVEL_SQLSRV ## 
 >### Para clonar el repositorio e instalarlo en produccion o pruebas se deben tener en cuenta los siguientes comandos: ###
 
 > [!NOTE]
 > - [Clonar el repositorio](#).
 >   ```bash
->   https://github.com/MORJAN-CUN/API-IDENTIDAD-CUN-LARAVEL.git
+>   https://github.com/MORJAN-CUN/API_CARNET_LARAVEL_SQLSRV.git
 >- [Intalar dependencias del proyecto composer](#).
 >   ```bash
 >   composer install
@@ -32,12 +32,12 @@
 >   php artisan migrate --seed
 
 > [!TIP]
->## Propietarios de la plataforma API-IDENTIDAD-CUN-LARAVEL ##
+>## Propietarios de la plataforma API_CARNET_LARAVEL_SQLSRV ##
 > 
 > ...
 
 > [!TIP]
-> ## Documentación del proyecto ##
+> ## Documentación del proyecto API_CARNET_LARAVEL_SQLSRV##
 >
 > El proyecto será realizado y escrito con el framework laravel en su version 8, esta es su documentación: [Laravel documentation](https://laravel.com/docs/).
 

@@ -29,7 +29,7 @@
 >   php artisan migrate
 >- [opcional ejecutar este comando si se requiere con datos de prueba iniciales en la base de datos](#).
 >   ```bash
->   php artisan bd:seed
+>   php artisan db:seed
 
 > [!TIP]
 >## Propietarios de la plataforma API_CARNET_LARAVEL_SQLSRV ##

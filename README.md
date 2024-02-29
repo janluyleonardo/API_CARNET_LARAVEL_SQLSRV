@@ -13,7 +13,7 @@
 >- [crear archivo .env a partir del archivo de ejemplo](#).
 >   ```bash
 >   cp .env.example .env
->- [Generar enlace simbolico de storage para poder manipular imagenes de usuario logueado](#).
+>- [Generar enlace simbolico de carpeta storage para poder manipular imagenes](#).
 >   ```bash
 >   php artisan storage:link
 >- [Generar llave de aplicacion para que no de error](#).
@@ -27,9 +27,9 @@
 >- [Ejecutar migraciones de la base de datos para que se ejecuten las tabla del proyecto ](#).
 >   ```bash
 >   php artisan migrate
->- [opcional ejecutar este comando si se cuenta con datos de prueba iniciales en la base de datos](#).
+>- [opcional ejecutar este comando si se requiere con datos de prueba iniciales en la base de datos](#).
 >   ```bash
->   php artisan migrate --seed
+>   php artisan bd:seed
 
 > [!TIP]
 >## Propietarios de la plataforma API_CARNET_LARAVEL_SQLSRV ##

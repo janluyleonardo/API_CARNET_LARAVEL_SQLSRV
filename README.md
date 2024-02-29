@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 >
->## Comandos para clonar plataforma de git remote add origin API_CARNET_LARAVEL_SQLSRV ## 
+>## Comandos para clonar plataforma de API_CARNET_LARAVEL_SQLSRV ## 
 >### Para clonar el repositorio e instalarlo en produccion o pruebas se deben tener en cuenta los siguientes comandos: ###
 
 > [!NOTE]
